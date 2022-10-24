@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: qa
+
+myCompany:
+  name: NCC
+  location: HN
+
+myBranch: HN1
+
+server:
+  port: 8888
